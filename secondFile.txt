@@ -3,3 +3,13 @@ This is the second file
 Added a new line to test ssh key
 
 basic test just to test 
+
+----Some of my Favourite Git commands----
+
+*git status
+*git log
+*git add .
+*git commit -m"commit message"
+*git push
+*git pull
+*git remote add origin master {ssh link to remote repository}
